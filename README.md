@@ -1,3 +1,9 @@
+---
+title: "网站导航"
+layout: "nav"
+
+---
+
 > 1. 快速查找方法：在下面主要类别中<font color='red'> **复制待查询的类别** </font>后按<kbd>**CTRL**</kbd>+<kbd>**F**</kbd>，按<kbd>ENTER</kbd>会自动跳转到相应位置。tips: **双击鼠标左键**可以快速选中类别；按住<kbd>CTRL</kbd>+鼠标滚轮, 可以左右滚动页面显示遮盖内容。
 > 2. 主要类别有： “破解软件”、“ＡI推荐”、“手机软件”、“前端工具	”、“刷题网站”、“在线工具”、“图标网站”、“图床”、“Emojis”、“Badges”、“Plugins”、“前端模板”、“API工具”、“书籍文档”、“远程工具”、“在线图片处理”、“文本转手写”、“字体”、“翻译软件”、“Markdown”、“Office”、“博客框架”、“博客美化”、“图表”、“镜像站”、“翻墙”、“其它”。
 > 3. 欢迎点击[推荐网站](mailto:lizilong_whu@163.com?subject=Message%20from%20Blog%2C%20Recommend%20Website&body=Hi%2C%0D%0AZilong!%20I%20want%20to%20recommend%20some%20awesome%20website%20to%20you.%20%0D%0AThe%20website%20URL%20is%3A%20%0D%0AThe%20basic%20function%20of%20the%20website%20is%3A%20)将您喜欢的工具网站添加到该页！
@@ -21,9 +27,11 @@
 |                  |         [文心一言](https://yiyan.baidu.com/welcome)          | 百度推出的知识增强大语言模型                                 |
 |                  |              [VegaAI](https://rightbrain.art/)               | AI画图，midjourney平替                                       |
 |                  |             [Tiamat](https://www.tiamat.world/)              | AI画图                                                       |
+|   **电脑软件**   |            [LX Music](https://lxmusic.toside.cn/)            | 一个免费&开源的音乐查找工具，[六音音源下载](https://sixyin.com/8498.html) |
 |   **手机软件**   |            [开源阅读 ](https://gedoor.github.io/)            | 备用下载地址:[[1]](beta.mgz6.cc) [[2]](beta.miaogongzi.cc)<br>精品书源:[[1]](https://yuedu.xiu2.xyz/) [[2]](https://www.fxxz.com/gonglue/95397.html) [[3]](https://www.lovejay.top/sites/484.html) [[4]](https://pan.quark.cn/s/14314e799d7f#/list/share/ce111c995c014089856d9d0eacad46d4-%E9%98%85%E8%AF%BB%EF%BC%88%E5%90%AB%E4%B9%A6%E6%BA%90%E5%8F%8A%E6%95%99%E7%A8%8B%EF%BC%89%EF%BC%88%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%BA%90%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E7%9A%AE%E6%96%AF%E7%B2%BE%E9%80%89%EF%BC%89) |
 |                  |                            李跳跳                            | [李跳跳2.2正式版_吾爱破解](https://www.52pojie.cn/thread-1794977-1-1.html)<br>[李跳跳自定义规则](https://snoopy1866.github.io/LiTiaotiao-Custom-Rules/) |
 |                  |            [LocalSend](https://localsend.org/#/)             | 将文件共享到附近的设备。免费、开源、跨平台。                 |
+|                  |            [LX Music](https://lxmusic.toside.cn/)            | 一个免费&开源的音乐查找工具，[六音音源下载](https://sixyin.com/8498.html) |
 |   **前端工具**   |       [The mailto encoder](https://mailto.vercel.app/)       | Mailto界面版                                                 |
 |                  | [FeHelper](https://www.baidufe.com/fehelper/index/index.html) | Web开发者助手JSON自动/手动格式化、JSON内容比对、代码美化与压缩、信息编解码转换、二维码生成与解码、图片Base64编解码转换、Markdown、 网页油猴、网页取色器、脑图(Xmind)等贴心工具，！ |
 |                  |   [CSS 布局生成器](https://layout.bradwoods.io/customize)    | 它是一个全功能的 CSS 和 JSX 生成器，用于使用 CSS Grid 布局语法生成不同种类的布局，任意修改 Grid 的属性，并且实时展示画面，生成对应代码。当然还有 Flex 布局（不过现在还不是很完善） |
